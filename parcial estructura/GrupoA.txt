@@ -1,0 +1,4 @@
+Paises_Bajos 80
+Senegal 60
+Colombia 80
+Catar 50
